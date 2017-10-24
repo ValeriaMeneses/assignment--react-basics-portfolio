@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 
-import Header from './portafolio-content/header.js'
-import Summary from './portafolio-content/summary.js'
-import ContanctInfo from './portafolio-content/contanctInfo.js'
+import Header from './header.js'
+import Summary from './summary.js'
+import ContanctInfo from './contanctInfo.js'
 
 class PortfolioContent extends Component{
   render(){
